@@ -16,8 +16,8 @@
 - MEM: < 30M
 - Docker Image: < 10M
 
-![Flare Docker Pulls](./screenshots/docker-pulls.png)
-![Flare Docker Image Size](./screenshots/docker-image-size.png)
+<img src="screenshots/docker-pulls.png" width="60%"/>
+<img src="screenshots/docker-image-size.png" width="60%"/>
 
 ## 快速上手
 
